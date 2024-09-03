@@ -1,6 +1,6 @@
 name: Build and Deploy
 
-#add your main branch to build
+#add your main branch to build and run
 on:
   push:
     branches: [ main ]
