@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: my-web-app
+        working-directory: /home/runner/work/react-app-test
 
     steps:
     - uses: actions/checkout@v3
